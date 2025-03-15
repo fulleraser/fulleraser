@@ -26,11 +26,6 @@ Enhancing logging and monitoring systems to improve incident detection.
 
 Developing security-focused scripts to simplify defensive operations.
 
-🌐 Connect with Me:
-LinkedIn: Your LinkedIn Profile
 
-Email: Your Email Address
-
-Blog/Website: Your Blog or Personal Website
 
 Feel free to fork, star, or explore my repositories—collaboration is always welcome! 🌟
